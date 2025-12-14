@@ -1,0 +1,5 @@
+{
+  "name": "LegalConnect",
+  "description": "An app that connects users with nearby verified lawyers for legal registration services, similar to ride-hailing apps. It includes user, lawyer, and admin views with features like GPS-based discovery, booking, document uploads, and analytics.",
+  "requestFramePermissions": []
+}
